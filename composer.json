@@ -1,0 +1,24 @@
+{
+  "name": "thomasdebruin/acf-gigpressartist",
+  "description": "Post type selector for Advanced Custom Fields.",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "advancedcustomfields",
+    "acf",
+    "gigpress"
+  ],
+  "homepage": "https://github.com/thomasdebruin/acf-post-type-selector",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Thomas de Bruin",
+      "email": "thomas.de.bruin@burometa.nl",
+      "homepage": "http://burometa.nl"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
