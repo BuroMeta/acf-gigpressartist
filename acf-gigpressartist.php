@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Giggpress Artist
-Plugin URI: http://playid.nl
+Plugin URI: http://burometa.nl
 Description: Reference to gigpress artistt
 Version: 1.0.0
-Author: Play! Interaction Design
-Author URI: http://playid.nl
+Author: Buro Meta
+Author URI: http://burometa.nl
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
