@@ -3,7 +3,7 @@
 /*
 Plugin Name: Advanced Custom Fields: Giggpress Artist
 Plugin URI: http://burometa.nl
-Description: Reference to gigpress artistt
+Description: Reference to gigpress artist
 Version: 1.0.0
 Author: Buro Meta
 Author URI: http://burometa.nl
