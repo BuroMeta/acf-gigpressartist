@@ -1,5 +1,7 @@
 {
   "name": "thomasdebruin/acf-gigpressartist",
+  "type": "wordpress-plugin",
+  "version": "0.2.0",
   "description": "Post type selector for Advanced Custom Fields.",
   "keywords": [
     "wordpress",
