@@ -18,9 +18,5 @@
       "email": "thomas.de.bruin@burometa.nl",
       "homepage": "http://burometa.nl"
     }
-  ],
-  "type": "wordpress-plugin",
-  "require": {
-    "composer/installers": "v1.4"
-  }
+  ]
 }
